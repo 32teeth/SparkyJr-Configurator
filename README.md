@@ -16,9 +16,9 @@ The hardware is based on AVR microcontrollers and programmed via [AVR Studio](ht
 ## Configurator
 ![Processing icon](images/processing.jpg)
 
-if you are on a Mac, you're in luck. There is a packaged application available for you. Simply download the [SparkyOfficial.app](https://github.com/32teeth/SparkyJr/tree/gh-pages/processing/SparkyOfficial/SparkyOfficial/application.macosx/SparkyOfficial.app) file
+if you are on a Mac, you're in luck. There is a packaged application available for you. Simply download the [SparkyOfficial.app](https://github.com/32teeth/SparkyJr-Configurator/tree/master/application.macosx/SparkyOfficial.app) file
 
-if you are looking to run the application from source, simply download Processing and run the [SparkyOfficial.pde](https://github.com/32teeth/SparkyJr/blob/gh-pages/processing/SparkyOfficial/SparkyOfficial/SparkyOfficial.pde) file
+if you are looking to run the application from source, simply download Processing and run the [SparkyOfficial.pde](https://github.com/32teeth/SparkyJr-Configurator/blob/master/SparkyOfficial.pde) file
 
 ***
 Should you run into any trouble, or have further questions, feel free to reach out.
